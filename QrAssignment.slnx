@@ -1,0 +1,17 @@
+<Solution>
+  <Folder Name="/Src/">
+    <Project Path="TemplateProject.WebApi/QrAssignment.WebApi.csproj" Id="d9339cd8-efb3-440a-8548-4bc1eca03d7c" />
+  </Folder>
+  <Folder Name="/Src/Core/">
+    <Project Path="TemplateProject.Application/QrAssignment.Application.csproj" />
+    <Project Path="TemplateProject.Domain/QrAssignment.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Src/External/">
+    <Project Path="TemplateProject.Infrastructure/QrAssignment.Infrastructure.csproj" />
+    <Project Path="TemplateProject.Persistance/QrAssignment.Persistance.csproj" />
+    <Project Path="TemplateProject.Presentation/QrAssignment.Presentation.csproj" />
+  </Folder>
+  <Folder Name="/test/">
+    <Project Path="TemplateProject.UnitTests/TemplateProject.UnitTests.csproj" Id="d4257d4d-c7fd-4b32-a8d2-22626303ca6e" />
+  </Folder>
+</Solution>

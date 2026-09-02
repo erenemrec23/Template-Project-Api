@@ -1,0 +1,12 @@
+﻿using MediatR;
+using QrAssignment.Application.DTOs.List;
+using QrAssignment.Application.Features.Roles.DTOs;
+using QrAssignment.Application.Features.Roles.Queries.GetList;
+using QrAssignment.Domain.Shared;
+
+namespace QrAssignment.Application.Features.Roles.Queries.ListBase.GetPassivedList
+{
+    public class GetPassivedListAppRoleQuery : PageRequestBaseDto, IRequest<Result<Paginate<RoleListItemDto>>>
+    {
+    }
+}

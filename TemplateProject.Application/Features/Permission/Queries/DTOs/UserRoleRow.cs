@@ -1,0 +1,1 @@
+﻿public sealed record UserRoleRow(Guid UserId, string UserName, Guid RoleId, string RoleName);

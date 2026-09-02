@@ -1,0 +1,12 @@
+{
+  "Messages.Success": "Operation completed successfully.",
+  "Errors.Unexpected": "An unexpected error occurred. Please try again later.",
+  "Messages.UserMailUserPasswordNotFound": "User email or password is incorrect. Please try again.",
+  "Messages.MailAlreadyExists": "This email address is already in use!",
+  "Messages.IdIsNull": "Parameter Is Null",
+  "Messages.CarNotFound": "Car not found",
+  "Messages.BrandNotFound": "Brand not found",
+  "Validations.BrandNameRequired": "Brand name is required",
+  "Validations.BrandNameMinLength": "Brand name must be at least 3 characters long",
+  "Validations.ValidationErrors": "There are validation errors."
+}
